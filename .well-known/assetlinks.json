@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.kazishab.twa",
+    "sha256_cert_fingerprints": [
+      "82:1E:23:D0:7D:AE:0D:A9:68:84:3E:93:DF:78:CE:B4:64:98:C3:69:2D:08:AC:24:D6:DD:63:01:7F:19:27:7B"
+    ]
+  }
+}]
